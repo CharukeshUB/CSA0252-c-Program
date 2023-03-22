@@ -1,0 +1,10 @@
+#include<stdio.h>
+#include<conio.h>
+void main()
+{
+  float a,b,h;
+  printf("Enter the Base and Height value:");
+  scanf("%f",&b,&h);
+  a=(*b*a)/2;
+  printf("%f",a);
+}
